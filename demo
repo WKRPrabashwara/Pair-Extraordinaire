@@ -1,5 +1,5 @@
-name = input("Enter your name:")
-marks = int(input("Enter your marks:"))
+name = input("Enter your name : ")
+marks = int(input("Enter your marks : "))
 
 if marks > 75:
     value = "A"
