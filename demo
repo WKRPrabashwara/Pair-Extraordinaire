@@ -1,9 +1,14 @@
+"""
+
 x = [50, 81, 36, 43, 55, 65, 73, 28, 69, 10]
 z = range(6)
 
 for i in enumerate(x):
     print(i) 
 
-function Myfunction(x, z):
-    for i in enumerate(x):
+"""
+haha = [50, 81, 36, 43, 55, 65, 73, 28, 69, 10]
+
+function haha(x, z, y, w, v, u, t, s, r, q, p, o, n, m, l, k, j, i, h, g, f, e, d, c, b, a):
+    for i in enumerate(haha):
         print(i)
