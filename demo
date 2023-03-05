@@ -1,5 +1,5 @@
 x = [50, 81, 36, 43, 55, 65, 73, 28, 69, 10]
 z = range(6)
 
-for i in range(0, 10):
+for i in range(0, 10, 3):
     print(i) 
