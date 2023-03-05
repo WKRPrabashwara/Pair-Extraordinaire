@@ -1,35 +1,4 @@
-function Myfuncotion(marks):
-    if marks >= 0 and marks <= 100:
-        if marks > 75:
-            value = "A"
-        elif marks > 65:
-            value = "B"
-        elif marks > 55:
-            value = "C"
-        elif marks > 35:
-            value = "S"
-        else:
-            value = "F"
-    return value
+x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-print(value)
-
-"""
-
-name = input("Enter your name : ")
-marks = int(input("Enter your marks : "))
-if marks >= 0 and marks <= 100:
-    if marks > 75:
-        value = "A"
-    elif marks > 65:
-        value = "B"
-    elif marks > 55:
-        value = "C"
-    elif marks > 35:
-        value = "S"
-    else:
-        value = "F"
-
-print("Hello", name , "Your grade is", value) 
-
-"""
+for i in x:
+    print(i) 
