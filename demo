@@ -2,7 +2,6 @@
 
 x = [50, 81, 36, 43, 55, 65, 73, 28, 69, 10]
 
-for i in enumerate(x):
 
 """
 haha(x, z, y, w, v, u, t, s, r, q, p, o, n, m, l, k, j, i, h, g, f, e, d, c, b, a):
