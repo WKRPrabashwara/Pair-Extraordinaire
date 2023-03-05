@@ -16,7 +16,6 @@ haha(12, 32, 43, 54, 65, 76, 87, 98, 90, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 
 
 None
 None
-None
 print("Hello world")
 def print_hello_world():
     print("Hello world")
